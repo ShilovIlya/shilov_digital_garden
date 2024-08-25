@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shilov Hero Digital Garden.md",
+                "file": "00 Lifespan/24 Lifespan basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shilov Hero Digital Garden.md",
+                "file": "00 Lifespan/24 Lifespan basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shilov Hero Digital Garden.md",
+                "file": "00 Lifespan/24 Lifespan basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shilov Hero Digital Garden.md"
+                "file": "00 Lifespan/24 Lifespan basics.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "d4c582305dca9f4d",
   "lastOpenFiles": [
-    "Shilov Hero Digital Garden.md"
+    "Shilov Hero Digital Garden.md",
+    "00 Lifespan/24 Lifespan basics.md",
+    "04 Daily",
+    "03 Content Recommendations",
+    "02 Hobby",
+    "01 Software Development",
+    "00 Lifespan"
   ]
 }
